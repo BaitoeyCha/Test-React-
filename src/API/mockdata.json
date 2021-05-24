@@ -1,0 +1,32 @@
+[
+      {
+          "name": "Yuriko",
+          "surname": "Suzushina",
+          "id": 1
+      },
+      {
+        "name": "Teitoku",
+        "surname": "Kakine",
+        "id": 2
+      },
+      {
+        "name": "Mikoto",
+        "surname": "Misaka",
+        "id": 3
+      },
+      {
+        "name": "Shizuri",
+        "surname": "Mugino",
+        "id": 4
+      },
+      {
+        "name": "Misaki",
+        "surname": "Shokuho",
+        "id": 5
+      },
+      {
+        "name": "Gunha",
+        "surname": "Sogiiita",
+        "id": 6
+      }
+]
